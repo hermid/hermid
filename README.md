@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+OTUNBA;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
@@ -6,9 +7,6 @@
 <div align="center" target="_blank">
   <img src="https://img.shields.io/twitter/follow/_hermid?style=social">
   <img src="https://img.shields.io/github/followers/hermid?style=social">
-<!--   <a href="https://www.instagram.com/_hermid" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/MYLINK?style=social">	
-  </a> -->
 </div>
 </p>
 
@@ -39,14 +37,14 @@ Ask me anything [here](https://github.com/_hermid/).
 <p> 
   <a href="https://twitter.com/_hermid" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/oduwole-hameed-347175196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<!--   <a href="https://code_alumni.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 </p>
 </div>
-
+-->
 
 
 
 <!--
+-->
 ### Hi there 👋
 * I'm Hermid, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
 * I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
@@ -54,7 +52,6 @@ Ask me anything [here](https://github.com/_hermid/).
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * You can reach me via hameedoduwole@gmail.com 📧 or text/WhatsApp me on +2349045232743 📱
 * Stay safe and keep on coding. 🗽
--->
 
 
 <!--

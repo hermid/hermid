@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Prince.;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+OTUNBA;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
 <div align="center" target="_blank">
   <img src="https://img.shields.io/twitter/follow/_hermid?style=social">
   <img src="https://img.shields.io/github/followers/hermid?style=social">
-  <a href="https://www.instagram.com/_hermid" target="_blank">
+<!--   <a href="https://www.instagram.com/_hermid" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/MYLINK?style=social">	
-  </a>
+  </a> -->
 </div>
 </p>
 

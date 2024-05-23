@@ -1,3 +1,15 @@
+
+<!--
+-->
+### Hi there 👋🏾
+* I'm Hermid, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
+* I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
+* My tech stacks are; python | django | django rest framework | vueJS | Flutter | 🧰 💻
+* I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
+* You can reach me via hameedoduwole@gmail.com 📧 or text/WhatsApp me on +2349045232743 📱
+* Stay safe and keep on coding. 🗽
+
+
 <!-- 
 -->
 <p align="center">
@@ -43,16 +55,6 @@ Ask me anything [here](https://github.com/_hermid/).
 
 
 
-
-<!--
--->
-### Hi there 👋
-* I'm Hermid, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
-* I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
-* My tech stacks are; python | django | django rest framework | vueJS | Flutter | 🧰 💻
-* I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
-* You can reach me via hameedoduwole@gmail.com 📧 or text/WhatsApp me on +2349045232743 📱
-* Stay safe and keep on coding. 🗽
 
 
 <!--

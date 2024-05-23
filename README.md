@@ -2,6 +2,10 @@
 <!--
 -->
 ### Hi there 👋🏾
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+OTUNBA;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
+
 * I'm Hermid, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
 * I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
 * My tech stacks are; python | django | django rest framework | vueJS | Flutter | 🧰 💻
@@ -12,9 +16,7 @@
 
 <!-- 
 -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+OTUNBA;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
-</p>
+
 
 <p>
 <div align="center" target="_blank">

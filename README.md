@@ -1,4 +1,5 @@
-<!--
+<!-- 
+-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+OTUNBA;I+love+open-source.;I+love+React.js.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
@@ -39,7 +40,7 @@ Ask me anything [here](https://github.com/_hermid/).
   <a href="https://www.linkedin.com/in/oduwole-hameed-347175196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 </div>
--->
+
 
 
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>⚡ Fun fact<br>null <br><br>💬 About me <br>I am a software engineer with interest in solving real-world problems with technology and dependable leadership, exploring information technology advancements and personal development through quality contents.<br><br>🌱 working on self-development<br><br>💕 I love to connect, network and learn from new people.
+<br>⚡ Fun fact<br>I’m looking to collaborate on full stack projects. <br><br>💬 About me <br>I am a software engineer with interest in solving real-world problems with technology and dependable leadership, exploring information technology advancements and personal development through quality contents.<br><br>🌱 working on self-development<br><br>💕 I love to connect, network and learn from new people.
 
 
 ## 🌐 Socials:
